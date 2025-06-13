@@ -1,0 +1,11 @@
+modLoader="javafml"
+loaderVersion="[0.15.7,)"
+license="MIT"
+[[mods]]
+modId="devoptimization"
+version="1.0.0"
+displayName="DevOptimization"
+author="dtqdev"
+description='''
+Tối ưu hóa hiệu suất tối đa cho thiết bị di động sử dụng PojavLauncher. Tương thích với các mod tối ưu hóa khác.
+'''

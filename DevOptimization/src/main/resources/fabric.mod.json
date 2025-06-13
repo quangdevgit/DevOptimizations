@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "devoptimization",
+  "version": "1.0.0",
+  "name": "DevOptimization",
+  "description": "Tối ưu hóa hiệu suất tối đa cho thiết bị di động sử dụng PojavLauncher. Tương thích với các mod tối ưu hóa khác.",
+  "authors": ["dtqdev"],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.dtqdev.devoptimization.DevOptimizationMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.7",
+    "fabric": ">=0.97.0+1.21.1",
+    "minecraft": "1.21.1"
+  },
+  "suggests": {
+    "sodium": "*"
+  },
+  "custom": {
+    "modmenu:api": true
+  }
+}
