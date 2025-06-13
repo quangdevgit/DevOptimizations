@@ -19,7 +19,6 @@ It is **fully compatible with Sodium** and other optimization mods, stacking eve
 - ⚡ Tweaks game settings for lower memory and CPU usage
 - 🧹 Cleans up background processes to free up resources
 - 💤 Aggressive entity culling and chunk optimization
-- 🪄 Smart render distance and mipmap adjustments
 - 🔋 Battery-saving tweaks for longer play sessions
 - 🛑 Disables unused sound and music channels
 - 🧊 Simplifies block and item models for faster rendering
@@ -37,7 +36,6 @@ It is **fully compatible with Sodium** and other optimization mods, stacking eve
 - 🛠️ Fast math and optimized algorithms for core game logic
 - 💤 Idle resource throttling when the player is AFK or in menus
 - 🧊 Texture streaming to load only visible textures, reducing RAM usage
-- 🧹 Automatic removal of dropped items and unused entities to keep worlds clean
 - 🧊 Adaptive simulation distance based on device performance
 - 🧊 Prioritized rendering for nearby entities and blocks
 
