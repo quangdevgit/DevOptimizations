@@ -21,7 +21,7 @@ Mod tối ưu hóa hiệu suất cực mạnh cho Minecraft trên Android/iOS qu
 ## 📖 Hướng dẫn sử dụng
 1. 🛠️ Cài đặt Fabric Loader 1.21.1 và ModMenu
 2. 📂 Đặt file jar vào thư mục `mods`
-//3. 🎮 Vào game, mở ModMenu > DevOptimization để bật/tắt các tối ưu hóa phù hợp thiết bị
+#3. 🎮 Vào game, mở ModMenu > DevOptimization để bật/tắt các tối ưu hóa phù hợp thiết bị
 3. 🎉 Tận hưởng trải nghiệm Minecraft mượt mà, FPS cao, không lag!
 
 ## 🤝 Đóng góp & báo lỗi
